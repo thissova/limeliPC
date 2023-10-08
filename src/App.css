@@ -1,3 +1,10 @@
+*{
+    scroll-behavior: smooth;
+}
 .app {
     text-align: center;
+    font-size: 20px;
+    padding-bottom: 2000px;
+    background: radial-gradient(circle at 0% 4%, rgba(137, 7, 167, 1) 0%, rgba(31, 4, 36, 1) 100%);
 }
+

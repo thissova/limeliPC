@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald&family=REM:wght@300&family=Roboto+Mono&family=Ubuntu:wght@300;500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Oswald&family=REM:wght@300&family=Roboto+Mono&family=Ubuntu:wght@300;500&display=swap');
 body {
   margin: 0;
   font-family: 'Oswald', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 20px;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Jost', sans-serif;
+
 }

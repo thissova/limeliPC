@@ -1,0 +1,26 @@
+.mainDiv {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.logo {
+    margin-top: 1rem;
+    height: 2rem;
+}
+
+.breadCrumb {
+    display: flex;
+    margin-top: 1rem;
+
+}
+a{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+@media screen and (max-width: 700px) {
+    .breadCrumb {
+        display: none;
+    }
+}
