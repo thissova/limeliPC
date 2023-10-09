@@ -14,13 +14,60 @@
     margin-top: 1rem;
 
 }
+.menuBlock {
+    background: rgba(95, 19, 110, 30%);
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+
+    text-align: end;
+    padding: 2rem;
+    position: absolute;
+    right: 0;
+    top: 40px;
+    margin-top: 1rem;
+    min-width: 140px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0, 0,0.2);
+}
+
+.menuBlock p {
+    margin: 1rem 0;
+}
+
+.menu{
+    margin-left: 1rem;
+    display: none;
+    position: relative;
+}
 a{
     color: white;
     cursor: pointer;
     text-decoration: none;
 }
+@media screen and (max-width: 2600px) {
+    .breadCrumb {
+        font-size: 2rem;
+    }
+    .logo {
+        height: 2.5rem;
+    }
+}
+@media screen and (max-width: 1500px) {
+    .breadCrumb {
+        font-size: 1.7rem;
+    }
+    .logo {
+        height: 2rem;
+    }
+}
 @media screen and (max-width: 700px) {
     .breadCrumb {
         display: none;
+    }
+    .menu{
+        display: flex;
+        margin-top: 1rem;
     }
 }
