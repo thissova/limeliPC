@@ -8,8 +8,10 @@ import Footer from "./components/Footer/Footer";
 function App() {
     return (
         <div className={"app"}>
+            <div className={"gradient_bg"}>
             <Navbar />
             <Header />
+            </div>
             <AboutUs />
             <OurWorks />
             <Footer />
