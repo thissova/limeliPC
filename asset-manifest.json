@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/limeliPC/static/css/main.aa23215e.css",
+    "main.js": "/limeliPC/static/js/main.9d4f2c26.js",
+    "static/js/787.649a94b9.chunk.js": "/limeliPC/static/js/787.649a94b9.chunk.js",
+    "static/media/image-removebg-preview (2).png": "/limeliPC/static/media/image-removebg-preview (2).52160eb26340405e6ec2.png",
+    "static/media/image-removebg-preview (5).png": "/limeliPC/static/media/image-removebg-preview (5).06e914771931404b845f.png",
+    "static/media/image-removebg-preview (3).png": "/limeliPC/static/media/image-removebg-preview (3).98df80f71e428e4dce0e.png",
+    "static/media/image-removebg-preview (4).png": "/limeliPC/static/media/image-removebg-preview (4).47d2b6b6a1beb157d419.png",
+    "static/media/image-removebg-preview (1).png": "/limeliPC/static/media/image-removebg-preview (1).3378b7275a2da8404c3d.png",
+    "static/media/logo.png": "/limeliPC/static/media/logo.cef6f2578b6e59e32abf.png",
+    "index.html": "/limeliPC/index.html",
+    "main.aa23215e.css.map": "/limeliPC/static/css/main.aa23215e.css.map",
+    "main.9d4f2c26.js.map": "/limeliPC/static/js/main.9d4f2c26.js.map",
+    "787.649a94b9.chunk.js.map": "/limeliPC/static/js/787.649a94b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa23215e.css",
+    "static/js/main.9d4f2c26.js"
+  ]
+}
