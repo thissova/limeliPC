@@ -9,12 +9,14 @@ function App() {
     return (
         <div className={"app"}>
             <div className={"gradient_bg"}>
-            <Navbar />
-            <Header />
+                <Navbar/>
+                <Header/>
             </div>
-            <AboutUs />
-            <OurWorks />
-            <Footer />
+            <div className={"gradient_bg2"}>
+                <AboutUs/>
+                <OurWorks/>
+            </div>
+            <Footer/>
         </div>
     );
 }
