@@ -22,7 +22,7 @@ const Navbar = () => {
                 <a href={"#our-works"}>Our works</a>
             </div>
             <div className={styles.breadCrumb}>
-                <a href={"#purchase"}>Purchase now</a>
+                <a href={"#purchase-footer"}>Purchase now</a>
             </div>
             <div className={styles.menu}>
                 {toggleMenu
@@ -34,7 +34,7 @@ const Navbar = () => {
                             <p><a href={"#home"}>Home</a></p>
                             <p><a href={"#about-us"}>About us</a></p>
                             <p><a href={"#our-works"}>Our works</a></p>
-                            <p><a href={"#purchase"}>Purchase now</a></p>
+                            <p><a href={"#purchase-footer"}>Purchase now</a></p>
                         </div>
                     </div>
                 )}

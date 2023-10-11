@@ -17,6 +17,9 @@ const AboutUs = () => {
                         So far, we have only 1 assembly in our assortment (in the future we will supplement), we can also assemble a PC to order.</p>
                 </div>
             </div>
+            <div>
+                <img src={image} alt={"headerImage"} className={styles.image2}/>
+            </div>
 
         </div>
     );

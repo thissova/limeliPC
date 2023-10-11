@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
+        <div id={"purchase-footer"}>
             Footer
         </div>
     );
