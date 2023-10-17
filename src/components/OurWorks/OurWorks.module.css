@@ -3,7 +3,7 @@
     display: flex;
     position: relative;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     padding-bottom: 200px;
 }
@@ -23,7 +23,6 @@
     line-height: normal;
 
     margin-top: 1.5rem;
-    margin-left: 5rem;
     max-width: 700px;
 }
 
@@ -48,10 +47,7 @@
 }
 
 @media screen and (min-width: 2500px) {
-    .headerText {
-        position: sticky;
-        top: 750px;
-    }
+
 
     .header {
         margin-right: 10rem;
@@ -74,6 +70,7 @@
 
 @media screen and (max-width: 1000px) {
     .mainDiv {
+        align-items: center;
         flex-direction: column;
     }
 
